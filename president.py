@@ -120,7 +120,7 @@ def plot_corr(df, filename=None):
 
     plt.gcf().text(
         -0.1, -0.25,
-        'Zdroj dat: www.volebnikalkulacka.cz',
+        'Zdroj dat: www.volebnikalkulacka.cz. Graf: tinyurl.com/prez2023',
         **SMALLFONT
         )
 
@@ -199,7 +199,7 @@ def plot_groups(df, xgroup, ygroup, filename=None):
 
     plt.gcf().text(
         0, -0.1,
-        'Zdroj dat: www.volebnikalkulacka.cz',
+        'Zdroj dat: www.volebnikalkulacka.cz. Graf: tinyurl.com/prez2023',
         **SMALLFONT
         )
 
@@ -260,7 +260,7 @@ def plot_group_map(
 
     plt.gcf().text(
         -0.85, -0.2,
-        'Zdroj dat: www.volebnikalkulacka.cz',
+        'Zdroj dat: www.volebnikalkulacka.cz. Graf: tinyurl.com/prez2023',
         **SMALLFONT
         )
 
