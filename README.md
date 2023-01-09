@@ -79,4 +79,4 @@ Ne. Proto se snažím toho tady o politice moc neříkat. Jsem [programátor](ht
 
 ## Můžu to sdílet?
 
-Ano. Není to bůhvíco, takže jsem se neobtěžoval s nějakou licencí. Dělejte, co Vám přijde rozumné a slušné. Pokud to jde, odkazujte [sem](https://tinyurl.com/prez2023) i na [původní zdroj dat](https://www.volebnikalkulacka.cz). (Pokud budete sdílet obrázky, tak v nich odkazy malým písmem jsou.)
+Ano. Dělejte, co Vám přijde rozumné a slušné. Pokud to jde, odkazujte [sem](https://tinyurl.com/prez2023) i na [původní zdroj dat](https://www.volebnikalkulacka.cz). (Pokud budete sdílet obrázky, tak v nich odkazy malým písmem jsou.)
