@@ -44,29 +44,29 @@ Otázky i kandidáty jsem seřadil tak, aby byla vidět logická souvislost otá
 
 > Danuše Nerudová nejenže by pravomoci prezidenta pojala minimalisticky a aby se zodpovídal ze svých rozhodnutí (na čemž se s leckým shodne), ale je jediná, kdo by chtěla, aby prezident byl navíc trestně stíhatelný během výkonu mandátu.
 
-> Jaroslav Bašta a Tomáš Zima jsou jediní dva, kteří nejenže se v jednotlých otázkách vyjádřili pro maximalistický výklad pravomocí prezidenta, ale navíc explicitně řekli ANO na to, že „prezident by měl mít širší pravomoci“.
+> Jaroslav Bašta a Tomáš Zima jsou jediní dva, kteří nejenže se v jednotlivých otázkách vyjádřili pro maximalistický výklad pravomocí prezidenta, ale navíc explicitně řekli ANO na to, že „prezident by měl mít širší pravomoci“.
 
 Je také vidět, že jen v jednom případě vyšlo kandidátům stejné skóre, přestože mají odlišné odpovědi ve čtyřech otázkách (Pavel a Hilšer). Celkově se ale ukazuje, že zdánlivě bohaté informace z mnoha odpovědí můžeme snadno zredukovat na číselné skóre, aniž bychom o mnoho přišli. (U DN, AB, PF bychom z jejich číselného skóre mohli přesně rekonstruovat odpovědi. U ostatních bychom se spletli v jedné otázce s čestnou výjimkou TZ.)
 
 ![Odpovědi a ohodnocení „Pro EU, Ukrajinu a lidská práva“](output/p3.png)
 
-Tento graf funguje stejně jako minulý.
+Tento graf stejným způsobem zobrazuje odpovědi na otázky, co spolu na první pohled ne vždy logicky nesouvisí, ale odpovědi opět tvoří jasnou hierarchii.
 
 # Co to pro mě znamená jako pro voliče?
 
-I kdybyste měli rádi volební kalkulačky, tak určitě nevybíráte jen podle ní. Myslím, že tenhle přehled vám ale pomůže z volební kalulačky vytáhnout podstatné informace a odhlédnout od šumu.
+Mohlo by vám to pomoci z volební kalkulačky vytáhnout podstatné informace a odhlédnout od šumu.
 
 Snadno uvidíte, jak jsou k sobě někteří kandidáti blízko (např. Hilšer, Fischer i Středula jsou velmi blízko k Pavlovi na obou osách) a můžete si i ověřit těch pár otázek, ve kterých se liší.
 
-Je také zřejmé, že Danuše Nerudová je zvlášť otázce pravomocí a odpovědnosti prezienta tak důsledná, že je od všech kandidátů dále než Jaroslav Bašta na opačné straně spektra.
+Je také zřejmé, že Danuše Nerudová je zvlášť v otázce pravomocí a odpovědnosti prezidenta tak důsledná, že je od všech kandidátů dále než Jaroslav Bašta na opačné straně spektra.
 
-Nemyslím si rozhodně, že volič by měl redukovat kandidáty na nějaká skóre, a už vůbec ne, že malé rozdíly ve skóre něco znamenají. Také si rozhodně nemyslím, že ty dvě osy plně vykreslují kandidáty.
+Nemyslím si ale rozhodně, že volič by měl redukovat kandidáty na nějaká skóre, a už vůbec ne, že malé rozdíly v těch číslech něco znamenají.
 
 # Další otázky, na které se nikdo neptal
 
 ## Proč není zahrnuta otázka X? Kde je přehled všech otázek a odpovědí?
 
-Některé otázky jsou podle mě spíše šum, některé jsou zajímavé, ale nedají snadno zahrnout do nějaké dost široké polarizované skupiny. Celý přehled odpovědí si můžete prohlédnout v [tabulce odpovědí](output/answers.csv), případně v [tabulce odpovědí s komentáři](output/answers-comments.csv). Opět připomínám, že zdrojem je web [volebnikalkulacka.cz](https://www.volebnikalkulacka.cz).
+Některé otázky jsou podle mě spíše šum, některé jsou zajímavé, ale nedají snadno zahrnout do nějaké dost široké polarizované skupiny. Celý přehled odpovědí si můžete prohlédnout v [tabulce odpovědí](output/answers.csv), případně v [tabulce odpovědí s komentáři](output/answers-comments.csv). Opět připomínám, že zdrojem dat je web [volebnikalkulacka.cz](https://www.volebnikalkulacka.cz), tam ale odpovědi moc přehledně nenajdete.
 
 ## Není lepší proklikat se kalkulačkou?
 
@@ -78,7 +78,7 @@ Zdrojový kód je [tu](president.py).
 
 ## To jakože programátor rozumí politice?
 
-Ne. Proto se snažím toho o politice moc neříkat. Jsem doktorský student v oboru Information Science na [NAIST](http://www.naist.jp) a absolvent informatiky na Matfyzu UK, takže vím něco o informacích a šumu. I tak to ale berte spíš jako hříčku než nějakou analýzu.
+Ne. Proto se snažím toho tady o politice moc neříkat. Jsem [programátor](https://www.bestincovid.info) a doktorand v oboru Information Science na [NAIST](http://www.naist.jp), takže vím něco o informacích a šumu. I tak to ale berte spíš jako hříčku než nějakou analýzu.
 
 ## Můžu to sdílet?
 
