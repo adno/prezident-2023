@@ -21,11 +21,11 @@ Pro nějakou výpovědní hodnotu je lepší související otázky interpretovat
 
 Z otázek, resp. odpovědí v kalkulačce pro prezidentské volby 2023 [volebnikalkulacka.cz](https://www.volebnikalkulacka.cz) jsem proto vybral dvě skupiny otázek, které mi přijdou vypovídající o kandidátech a zároveň logicky provázané/korelované uvnitř těchto skupin:
 
-1. Velké pravomoci a malá odpovědnost: kandidáti dostávají +1 bod za odpovědi podporující široce pojaté prezidentské pravomoci (-1 za odpovědi proti) a -1 bod za odpovědi podporující trestní stíhatelnost/odpovědnost prezidenta (+1 za odpovědi proti).
+1. **Velké pravomoci a malá odpovědnost:** kandidáti dostávají +1 bod za odpovědi podporující široce pojaté prezidentské pravomoci (-1 za odpovědi proti) a -1 bod za odpovědi podporující trestní stíhatelnost/odpovědnost prezidenta (+1 za odpovědi proti).
 
-2. Pro EU, Ukrajinu a lidská práva: kandidáti dostávají +1 bod za odpovědi podporující EU, Ukrajinu nebo lidská práva.
+2. **Pro EU, Ukrajinu a lidská práva:** kandidáti dostávají +1 bod za odpovědi podporující EU, Ukrajinu nebo lidská práva.
 
-**Pozor:** Body nedávám za to, jak se mi odpověď líbí či nikoli, ale podle toho, ke kterému názorovému pólu směřuje.
+**Pozor:** Body nedávám za to, jak se mi odpověď líbí či nikoli, ale podle toho, ke kterému názorovému pólu směřuje. Příklad:
 
 > „Prezident má mít povinnost jmenovat navržené soudce.“ ANO: -1, NE: +1
 > „Prezident má udělovat milosti i nadále bez omezení.“ ANO: +1, NE: -1

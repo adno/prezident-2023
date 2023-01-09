@@ -106,7 +106,8 @@ def get_data():
 
 
 def save_fig(filename):
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0.3, dpi=300)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0.3, dpi=150)
+    plt.savefig(filename.replace('.png', '.pdf'), bbox_inches='tight', pad_inches=0.3)
 
 
 def plot_corr(df, filename=None):
