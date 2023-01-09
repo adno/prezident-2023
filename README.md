@@ -40,13 +40,13 @@ Podívejme se tedy na odpovědi v první skupině. Barva nebo číslo zde znamen
 
 ![Odpovědi a ohodnocení „Velké pravomoci a malá odpovědnost“](output/p2.png)
 
-Otázky i kandidáty jsem seřadil tak, aby byla vidět logická souvislost otázek. Zároveň je tak i dobře vidět, jak jsou extrémní (bez jakékoli urážky) kandidáti v odpovědích na některé otázky osamocení.
+Otázky i kandidáty jsem seřadil tak, aby byla vidět logická souvislost otázek. Zároveň je tak i dobře vidět, jak jsou extrémní (bez jakékoli urážky) kandidáti v odpovědích na některé otázky osamocení:
 
 > Danuše Nerudová nejenže by pravomoci prezidenta pojala minimalisticky a aby se zodpovídal ze svých rozhodnutí (na čemž se s leckým shodne), ale je jediná, kdo by chtěla, aby prezident byl navíc trestně stíhatelný během výkonu mandátu.
 
 > Jaroslav Bašta a Tomáš Zima jsou jediní dva, kteří nejenže se v jednotlivých otázkách vyjádřili pro maximalistický výklad pravomocí prezidenta, ale navíc explicitně řekli ANO na to, že „prezident by měl mít širší pravomoci“.
 
-Je také vidět, že jen v jednom případě vyšlo kandidátům stejné skóre, přestože mají odlišné odpovědi ve čtyřech otázkách (Pavel a Hilšer). Celkově se ale ukazuje, že zdánlivě bohaté informace z mnoha odpovědí můžeme snadno zredukovat na číselné skóre, aniž bychom o mnoho přišli. (U DN, AB, PF bychom z jejich číselného skóre mohli přesně rekonstruovat odpovědi. U ostatních bychom se spletli v jedné otázce s čestnou výjimkou TZ.)
+Je také vidět, že v jednom případě vyšlo kandidátům stejné skóre, přestože mají odlišné odpovědi v několika otázkách (Pavel a Hilšer). Celkově se ale ukazuje, že zdánlivě bohaté informace z mnoha odpovědí můžeme snadno zredukovat na číselné skóre, aniž bychom o mnoho přišli. (U DN, AB, PF bychom z jejich číselného skóre mohli přesně rekonstruovat odpovědi. U ostatních bychom se spletli v jedné otázce s čestnou výjimkou TZ.)
 
 ![Odpovědi a ohodnocení „Pro EU, Ukrajinu a lidská práva“](output/p3.png)
 
