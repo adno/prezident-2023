@@ -1,19 +1,16 @@
-# Jaká úskalí má volební kalkulačka?
+# Co je špatně na volební kalkulačce?
 
-Volební kalkulačky počítají vaši shodu s kandidáty na předem vybraných otázkách. Kalkulačka na [volebnikalkulacka.cz](https://www.volebnikalkulacka.cz) vám také dovolí přiřadit dvojnásobnou váhu nebo otázku vynechat (nulová váha). I tak má několik úskalí:
+Volební kalkulačky počítají vaši shodu s kandidáty na předem vybraných otázkách. Kalkulačka na [volebnikalkulacka.cz](https://www.volebnikalkulacka.cz) vám také dovolí přiřadit dvojnásobnou váhu nebo otázku vynechat (nulová váha). I tak má dva velké nedostatky:
 
-1. **Kalkulačka ignoruje, že velká část otázek je logicky provázaná nebo alespoň korelovaná.** To si pravděpodobně uvědomí kandidáti, kteří své odpovědi promýšlí, ale možná ne vy, když musíte vybírat odpovědi sekvenčně v náhodném pořadí.
+1. **Kalkulačka ignoruje, že velká část otázek je logicky provázaná nebo alespoň korelovaná.** To si pravděpodobně uvědomí kandidáti, kteří své odpovědi promýšlí jako celekm, ale možná ne vy, když budete muset odpovídat ne jednu otázku po druhé.
 
 	> Odpověď ANO na „Prezident by měl mít pravomoc navrhovat zákony“ implikuje stejnou odpověď na „Prezident má mít širší pravomoci“. Postoj k prohlubování evropské integrace koreluje s postojem k vyvěšování vlajky EU.)
 	
-
-2. **Část odpovědí je spíše šum než užitečná informace.** Ideální by bylo takové otázky vynechat, ale to se vám pravděpodobně při vyplňování kalkulačky nepodaří napoprvé konzistentně.
+2. **Část odpovědí je spíše šum než užitečná informace.** Ideální by bylo takové otázky vynechat, ale to se vám pravděpodobně při vyplňování kalkulačky nepodaří napoprvé udělat konzistentně.
 	
 	> Pokud máte názor na to, zda má prezdident co nejvíce jezdit na kole a MHD, možná tuto otázku nevynecháte, i když je to pro vás mnohem méně důležité než jeho názor na to, zda by prezidenta měl být trestně stíhatelný i v době výkonu mandátu.
 
-Zkrátka odpovědi ve volební kalkulačce obsahují mnohem méně informací než se zdá, a přitom není snadné tyto informace efektivně získat.
-
-To určitě není vše, ale už máme dvě věci, které se dají zlepšit.
+Zkrátka odpovědi ve volební kalkulačce obsahují mnohem méně informací, než se zdá, a přitom není snadné tyto informace efektivně získat.
 
 # Jak vydolovat informace z dat z volební kalkulačky?
 
